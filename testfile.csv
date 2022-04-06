@@ -1,0 +1,44 @@
+sku,attribute_set_code,product_type,categories,name,description,short_description,visibility,price,special_price,url_key,meta_title,meta_keywords,meta_description,additional_attributes,qty,related_skus,related_position,crosssell_skus,crosssell_position,upsell_skus,upsell_position,additional_images,additional_image_labels,hide_from_product_page,custom_options,bundle_price_type,bundle_sku_type,bundle_price_view,bundle_weight_type,bundle_values,bundle_shipment_type,associated_skus,configurable_variations,configurable_variation_labels
+22003165,Default,configurable,"CAD\/CAM/PRODUCTS/All Products/Intraoral scanners,CAD\/CAM/PRODUCTS/All Products/Intraoral scanners/3Shape TRIOS",TRIOS 4 ,"<div class=""description-content-tab"">
+<h4>Take your dentistry beyond treatment</h4>
+<p>Our intraoral scanning solutions allow you to take your dentistry beyond. The new 3Shape TRIOS® 4 combines our established superior scanning technology with groundbreaking caries diagnostic aid technology* for both surface and interproximal caries. No additional scanning device needed.</p>
+<ul>
+<li>
+<div class=""description-content-list d-flex"">
+<div class=""img""><img src=""{{media url=""wysiwyg/Mask_Group_21_1.png""}}"" alt="""" /></div>
+<div class=""detail"">
+<h5>SURFACE CARIES</h5>
+<p>TRIOS 4 has built-in fluorescent technology that aids in the identification of possible caries. Using TRIOS 4, dental professionals can now be aided in the early-detection of surface caries, without the need for an additional scanning device.</p>
+</div>
+</div>
+</li>
+<li>
+<div class=""description-content-list d-flex"">
+<div class=""img""><img src=""{{media url=""wysiwyg/TRIOS_4_IR_transillumination_1.png""}}"" alt="""" /></div>
+<div class=""detail"">
+<h5>INTERPROXIMAL CARIES</h5>
+<p>TRIOS 4 will also feature a dedicated transillumination smart tip later this year. The smart tip will aid in the identification of possible interproximal caries undetectable to eye, without emitting radiation, and is the first launch within 3Shape’s new smart tip platform.</p>
+</div>
+</div>
+</li>
+</ul>
+<div class=""description-image""><img src=""{{media url=""wysiwyg/girl1.png""}}"" alt="""" /></div>
+</div>","<p>TRIOS 4 is the most powerful 3Shape intraoral scanner to date!<br />It helps bring your dentistry beyond treatment by enabling preventive care with caries diagnostics aid and monitoring tools. Comes with smart tips that heat faster to ensure that you are scan ready in seconds, and enable 30% more battery life.</p>
+<p> </p>
+<p>Configurations:<br />- wired / wireless<br />- Pod / MOVE / MOVE+</p>","Catalog, Search",,,trios-4,TRIOS 4,TRIOS 4,TRIOS 4,"calculate_roi=Yes,compare_products=Yes,contact_us=Yes,product_company_name=3SHAPE,request_demo=Yes,shop_by_brand=3Shape,smart_tips=<p>The new generation of TRIOS smart tips feature instant-heat technology for optimized scanning.</p>
+<div class=""""smart-tips-content"""">
+<p><span class=""""img""""><img src=""""http://14.98.73.9/henryschein/pub/media/wysiwyg/stopwatch_4.png"""" alt="""""""" /></span><span>Be scan-ready in seconds with instant-heat technology.</span></p>
+<p><span class=""""img""""><img src=""""http://14.98.73.9/henryschein/pub/media/wysiwyg/Group_271.png"""" alt="""""""" /></span><span>30% more battery life you can scan 2-3 times as many patients with instant-heat in combination.</span></p>
+<p><span class=""""img""""><img src=""""http://14.98.73.9/henryschein/pub/media/wysiwyg/Group_270.png"""" alt="""""""" /></span><span>Optimal scanning due to automatic use counter and tip-change alert.</span></p>
+</div>
+<div class=""""smart-tip-image""""><img src=""""http://14.98.73.9/henryschein/pub/media/wysiwyg/Image_15.png"""" alt="""""""" /></div>"",specification=""<p></p>
+<p><img src=""""{{media url=""t4.PNG""}}"""" width=""""748"""" height=""""949"""" /></p>
+<p> </p>
+<h2 class=""""specification-listing""""></h2>
+<h2><strong>Scanner features</strong></h2>
+<p><span><strong><span></span></strong></span></p>
+<p><span><strong><span></span></strong></span></p>
+<p><span> <br /><span>• Wireless</span><br /><span>• AI scan for simpler scanning</span><br /><span>• Proven accuracy</span><br /><span>• Real colors and shade measurement</span><br /><span>• Smart tips</span><br /><span>• Caries diagnostic aid*</span></span></p>
+<h2><span> <br /><span><strong>Software and apps</strong></span></span></h2>
+<p><span> <br /><span>• TRIOS Patient Monitoring</span><br /><span>• TRIOS Treatment Simulator</span><br /><span>• TRIOS Smile Design</span><br /><span>• TRIOS Patient Specific Motion</span></span></p>
+<p> </p>,stripe_sub_enabled=No,stripe_sub_interval=Months",0,"22002355,85240040,80241140","1,2,3",,,,,"/t/r/trios_4_wireless_move_.jpg,/t/r/trios4.jpg,/t/r/trios_2018_patienttreatmentsimulator_cmyk.jpg,/2/_/2_370x211-trios-4-tip.png,/6/_/6_190226_ir_tip_pers_under.png,/t/r/trios4_lt_rgb__sideview_transparent.png,/m/o/moveplus_lt_cmyk_greybackground.jpg,/3/s/3shape_trios_clinic_2019_177.jpg,/1/8/181217_trios4_pod_with_scanner.jpg,/3/s/3shape_trios_clinic_2019_484.jpg",",,,,,,,,,",,,,,,,,,,"sku=22003160-Pen Wired-MOVE+,grip=Pen Wired,setup=MOVE+|sku=22003104-Pen Wired-MOVE,grip=Pen Wired,setup=MOVE|sku=22003110-Pen Wired-Pod,grip=Pen Wired,setup=Pod|sku=22003106-Pen Wireless-MOVE,grip=Pen Wireless,setup=MOVE|sku=22003112-Pen Wireless-Pod,grip=Pen Wireless,setup=Pod|sku=22003165-Pen Wireless-MOVE+,grip=Pen Wireless,setup=MOVE+","grip=Grip,setup=Setup"
